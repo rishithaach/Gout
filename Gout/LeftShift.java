@@ -1,6 +1,6 @@
 package Gout;
 
-public class RightShift {
+public class LeftShift {
     
         public static void main(String[] args) {
           
