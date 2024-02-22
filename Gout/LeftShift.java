@@ -1,6 +1,6 @@
 package Gout;
 
-public class RightShift {
+public class LeftShift {
     
         public static void main(String[] args) {
           
@@ -13,7 +13,7 @@ public class RightShift {
           int number2= -4;
 
           int result2 = number2<< 2;
-          System.out.println("result2 "+result2);    // prints 8
+          System.out.println("result2 "+result2);    // prints -16
 
           
 
